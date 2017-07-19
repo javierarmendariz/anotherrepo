@@ -3,7 +3,7 @@ var webpack = require('webpack');
 
 module.exports = {
   entry: [
-    'webpack-dev-server/client?http://0.0.0.0:3000', 'webpack/hot/only-dev-server', './src/main'
+    'webpack-dev-server/client?http://0.0.0.0:3007', 'webpack/hot/only-dev-server', './src/main'
   ],
   output: {
     filename: 'bundle.js',

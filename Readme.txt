@@ -8,5 +8,6 @@
 
 Enzyme
 https://semaphoreci.com/community/tutorials/testing-react-components-with-enzyme-and-mocha
+https://gist.github.com/busypeoples/409a34199a3dd7ceacffe25ac6c10547
 
 // Test
