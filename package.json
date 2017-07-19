@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha --require ./test/helpers/browser.js --require ignore-styles --compilers babel-core/register ./test/app.mocha.test.js"
+    "test": "./node_modules/mocha/bin/mocha --require ./test/helpers/browser.js --require ignore-styles --compilers babel-core/register ./test/app.*.test.js"
   },
   "author": "",
   "license": "ISC",
